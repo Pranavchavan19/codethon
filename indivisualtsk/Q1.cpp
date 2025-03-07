@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
+
+    
     int n=3;
     int cube;
     for(int i=1;i<=3;i++)
